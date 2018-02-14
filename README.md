@@ -2,7 +2,7 @@
 
 ```
 bower i
-pulp build --to index.js
+pulp build --to index_bundle.js
 ```
 
 Open `index.html` in browser
